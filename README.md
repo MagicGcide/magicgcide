@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Gcide!
+🔭 I’m currently working on model compression and acceleration. 
+
+
 <!--
 **MagicGcide/magicgcide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
